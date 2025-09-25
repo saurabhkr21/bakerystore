@@ -244,5 +244,3 @@ For support and questions:
 - **Offline Support**: PWA capabilities for offline operation
 
 ---
-
-**Built with ❤️ for bakery businesses worldwide**
